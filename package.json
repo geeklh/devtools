@@ -14,7 +14,7 @@
     "@koa/cors": "^2.2.3",
     "@types/fs-extra-promise": "^1.0.7",
     "antd": "^3.11.6",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bin-packing-core": "^0.2.0-beta02",
     "download": "^7.1.0",
     "egret-node-utils": "0.0.7",
