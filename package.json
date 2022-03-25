@@ -18,7 +18,7 @@
     "bin-packing-core": "^0.2.0-beta02",
     "download": "^7.1.0",
     "egret-node-utils": "0.0.7",
-    "electron": "^4.0.0",
+    "electron": "^13.6.6",
     "fs-extra-promise": "^1.0.1",
     "jpeg-js": "^0.3.4",
     "koa": "^2.6.2",
